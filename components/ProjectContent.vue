@@ -31,27 +31,27 @@
         >
           <div class="flex w-full justify-center mt-2">
             <NuxtImg
-              src="/images/ecommerce.png"
-              width="400"
-              height="200"
+              src="/images/1.png"
+              width="600"
+              height="400"
               class="shadow-lg"
               format="webp"
               placeholder
             />
           </div>
           <div class="ml-8 my-2 text-stone-100/80 font-semibold">
-            E-Commerce - app
+            Shubheccha App - Redesign and Case Study
           </div>
           <div class="ml-4 mr-1 text-stone-100 text-start text-md">
-            Style Hub is a user-friendly e-commerce app designed to make online shopping fast, secure, and convenient. 
-            Browse a wide range of products across categories like electronics, fashion, home essentials, and more. 
-            Enjoy personalized recommendations, easy search filters, and seamless checkout with multiple payment options. 
-            Track your orders in real-time and manage your wishlist effortlessly.
+           Shubheccha' is a sophisticated mobile application specially designed for Non-Resident Bangladeshis (NRBs), 
+           enabling them to effortlessly complete various critical services and functions of the Bangladesh Government (such as passport,
+            National ID, visa, land-related information, etc.) from anywhere in the world. 
+            It is an integrated platform designed to further strengthen the connection between expatriates and their homeland.
           </div>
           <div class="flex w-full h-full justify-end items-end">
             <a
               class="flex flex-row justify-end items-center gap-1 pr-4 py-2 underline underline-offset-4 text-sm font-sans hover:text-white/60"
-              href="blank ehane pdf file use kora lagbe"
+              href="https://www.behance.net/gallery/237557517/Shubheccha-App-Redesign-and-Case-Study"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -69,8 +69,8 @@
           <div class="flex w-full justify-center mt-2 bg-black/60">
             <NuxtImg
               src="/images/care.png"
-              width="200"
-              height="200"
+              width="400"
+              height="400"
               class="shadow-lg"
               format="webp"
               placeholder
