@@ -10,10 +10,10 @@
         class="w-1/3 h-full pt-8 hidden md:flex flex-col items-center justify-start"
       >
         <NuxtImg
-          src="/images/Na.jpg"
+          src="/images/nnnn.jpg"
           alt="Mehedi Hasan"
-          width="300"
-          height="300"
+          width="400"
+          height="500"
           class="rounded-lg shadow-lg"
           format="webp"
           placeholder
