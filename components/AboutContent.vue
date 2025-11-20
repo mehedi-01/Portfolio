@@ -13,7 +13,7 @@
           src="/images/nnnn.jpg"
           alt="Mehedi Hasan"
           width="400"
-          height="500"
+          height="480"
           class="rounded-lg shadow-lg"
           format="webp"
           placeholder
