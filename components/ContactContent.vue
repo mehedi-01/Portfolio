@@ -31,7 +31,7 @@
       </div>
       <div class="flex flex-row gap-6 mt-8">
         <button class="bg-stone-700/70 px-4 py-2 rounded-md">Say Hello</button>
-        <a href="/images/Mehedi.pdf" class="bg-stone-700/70 px-4 py-2 rounded-md">Get Resume</a>
+        <a href="/images/Mehedi Hasan CV.pdf" class="bg-stone-700/70 px-4 py-2 rounded-md">Get Resume</a>
       </div>
     </div>
   </div>
