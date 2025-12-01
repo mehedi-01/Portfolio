@@ -40,7 +40,7 @@
             />
           </div>
           <div class="ml-8 my-2 text-stone-100/80 font-semibold">
-            Shubheccha App - Redesign and Case Study
+          Shubheccha App - Redesign and Case Study
           </div>
           <div class="ml-4 mr-1 text-stone-100 text-start text-md">
            Shubheccha' is a sophisticated mobile application specially designed for Non-Resident Bangladeshis (NRBs), 
@@ -68,8 +68,8 @@
         >
           <div class="flex w-full justify-center mt-2 bg-black/60">
             <NuxtImg
-              src="/images/care.png"
-              width="400"
+              src="/images/Cover Page.png"
+              width="600"
               height="400"
               class="shadow-lg"
               format="webp"
@@ -77,17 +77,17 @@
             />
           </div>
           <div class="ml-8 my-2 text-stone-100/80 font-semibold">
-            Health & Beauty / Skin Care
+            Rocket Fintech App Redesign & Case Study
           </div>
           <div class="ml-4 mr-1 text-stone-100 text-start text-md">
-            SkinStudio is your ultimate online destination for healthy and glowing skin. 
-            Discover expert tips, product recommendations, and personalized skincare routines designed to meet your unique skin needs. 
-            Whether you’re dealing with acne, dryness, or aging, our website provides trusted guidance and high-quality skincare products to help you achieve your best skin.
+          I’m excited to share my in-depth redesign of the Rocket Fintech App, where I explored how a modern digital
+          banking experience can be made faster,
+          clearer, and more intuitive for users.
           </div>
           <div class="flex w-full h-full justify-end items-end">
             <a
               class="flex flex-row justify-end items-center gap-1 pr-4 py-2 underline underline-offset-4 text-sm font-sans hover:text-white/60"
-              href="blank ehane pdf file use kora lagbe"
+              href="https://www.behance.net/gallery/239608561/Rocket-Fintech-App-Redesign-Case-Study"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -104,26 +104,26 @@
         >
           <div class="flex w-full justify-center mt-2">
             <NuxtImg
-              src="/images/dashboard.png"
-              width="400"
-              height="300"
+              src="/images/fashion.png"
+              width="600"
+              height="400"
               class="shadow-lg"
               format="webp"
               placeholder
             />
           </div>
           <div class="ml-8 my-2 text-stone-100/80 font-semibold">
-            Quarrier Service Dashboard
+            Minimal fashion app UI with smooth flow and style vibes
           </div>
           <div class="ml-4 mr-1 text-stone-100 text-start text-md">
-            The Parcel Wave is a comprehensive dashboard designed to streamline and manage quarrier operations efficiently. 
-            It provides real-time insights into quarry activities, material inventory, orders, and workforce management. 
-            With an intuitive interface, users can monitor operations, track shipments, and make data-driven decisions to optimize productivity.
+            This project focuses on smooth onboarding, clear navigation, soft color palettes, and high-impact product visuals.
+            I explored design principles such as spacing, typography balance, visual hierarchy, and seamless interactions to make the browsing and purchasing process effortless.
+            Each component is designed to guide users intuitively, reduce cognitive load, and enhance visual exploration.
           </div>
           <div class="flex w-full h-full justify-end items-end">
             <a
               class="flex flex-row justify-end items-center gap-1 pr-4 py-2 underline underline-offset-4 text-sm font-sans hover:text-white/60"
-              href="blank ehane pdf file use kora lagbe"
+              href="https://www.behance.net/gallery/239093831/Minimal-fashion-app-UI-with-smooth-flow-and-style-vibes"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -140,8 +140,8 @@
         >
           <div class="flex w-full justify-center mt-2">
             <NuxtImg
-              src="/images/furniture.png"
-              width="250"
+              src="/images/4 copy.png"
+              width="600"
               height="400"
               class="shadow-lg"
               format="webp"
@@ -176,21 +176,20 @@
         >
           <div class="flex w-full justify-center mt-2">
             <NuxtImg
-              src="/images/cleaning.png"
-              width="400"
-              height="200"
+              src="/images/SKIN.png"
+              width="600"
+              height="400"
               class="shadow-lg"
               format="webp"
               placeholder
             />
           </div>
           <div class="ml-8 my-2 text-stone-100/80 font-semibold">
-            Services / Car Care app
+            Skin Studio – Modern Skincare E-Commerce UI/UX Design
           </div>
           <div class="ml-4 mr-1 text-stone-100 text-start text-md">
-            Wash & Go is a convenient car wash and detailing app that brings professional car cleaning services right to your doorstep. 
-            Schedule washes, choose from a variety of services, and get your car sparkling clean without leaving home. Enjoy hassle-free booking, secure payments, 
-            and real-time updates on your service.
+            A clean, elegant, and nature-inspired UI design created for a skincare brand focused on purity, self-care, and daily wellness.
+            The visual direction blends soft neutrals, natural textures, and high-quality product imagery to create a calm and premium shopping experience.
           </div>
           <div class="flex w-full h-full justify-end items-end">
             <!-- <a
@@ -212,22 +211,20 @@
         >
           <div class="flex w-full justify-center mt-2">
             <NuxtImg
-              src="/images/portfolio_1.png"
-              width="400"
-              height="200"
+              src="/images/dash.png"
+              width="600"
+              height="400"
               class="shadow-lg"
               format="webp"
               placeholder
             />
           </div>
           <div class="ml-8 my-2 text-stone-100/80 font-semibold">
-            Portfolio - 3D website
+            Parcel Wave — Logistics Dashboard
           </div>
           <div class="ml-4 mr-1 text-stone-100 text-start text-md">
-            A modern portfolio website featuring interactive 3D graphics built
-            with Three.js for dynamic visuals and Nuxt.js for server-side
-            rendering and smooth user experience. The site showcases projects
-            and skills with engaging 3D elements and animations.
+          Parcel Wave is a clean and intuitive logistics dashboard designed to simplify shipment tracking, order management, route monitoring, and business analytics. 
+          The goal was to create a seamless experience where admins can easily visualize large datasets, monitor real-time deliveries, and make informed decisions.
           </div>
           <div class="flex w-full h-full justify-end items-end">
             <a
